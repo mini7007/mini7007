@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mini7007&label=Profile%20views&color=0e75b6&style=flat" alt="mini7007" /> </p>
 
-- 🔭 I’m currently working as Software Support Engineer at [Vridhee innovation Pvt Ltd](https://vridhee.com/)
+- 🔭 I’m currently working as Software Engineer at [Vridhee innovation Pvt Ltd](https://vridhee.com/)
 
 - 🌱 I’m currently learning **ReactJs,AWS,MongoDB,NodeJs**
 
