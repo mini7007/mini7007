@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Full Stack Developer at [EC Council Pvt Ltd](https://www.eccouncil.org/)
 
-- 🌱 I’m currently learning **ReactJs,AWS,MongoDB,NodeJs**
+- 🌱 I’m currently Working with **ReactJs,AWS,MongoDB,NodeJs**
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
