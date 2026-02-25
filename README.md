@@ -1,3 +1,4 @@
+[![Portfolio](https://img.shields.io/badge/🌐%20View%20My%20Portfolio-000?style=for-the-badge)](https://mohan-sharma-devfolio.my.canva.site/)
 <h1 align="center">Hi 👋, I'm Mohan Sharma</h1>
 <h3 align="center">"Passionate software developer with a flair for innovation and problem-solving. Proficient in diverse technologies, committed to delivering robust and efficient</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/kitten-laptop-coding-hicxox3kgw3kew71.gif"
