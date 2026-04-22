@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mini7007&label=Profile%20views&color=0e75b6&style=flat" alt="mini7007" /> </p>
 
-- 🔭 I’m currently working as Full Stack Developer at [EC Council Pvt Ltd](https://www.eccouncil.org/)
+- 🔭 I’m currently working as Sr Software Engineer at [Adscult Pvt Ltd][https://adscult.com/]
 
 - 🌱 I’m currently Working with **ReactJs,AWS,MongoDB,NodeJs**
 
